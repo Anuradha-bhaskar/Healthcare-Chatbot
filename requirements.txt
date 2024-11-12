@@ -1,0 +1,19 @@
+sentence-transformers
+langchain
+fastapi
+flask
+langchain-huggingface
+uvicorn
+transformers
+torch
+pydantic
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain-nvidia-ai-endpoints
+langchain_experimental
+python-socketio
+python-socketio[asyncio_client]
+-e .
